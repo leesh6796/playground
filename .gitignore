@@ -31,4 +31,8 @@
 *.out
 *.app
 
+# C++
 bin
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
